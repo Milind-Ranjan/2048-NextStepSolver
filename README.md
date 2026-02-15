@@ -1,8 +1,4 @@
-Here is a professional, polished `README.md` file based on your specifications. I have organized it to be developer-friendly, adding necessary install steps (like `npm install`) and formatting it for maximum readability on GitHub.
-
----
-
-# 🧠 2048 AI Solver (Step-by-Step Assistant)
+# 🧠 2048 Solver (Step-by-Step Assistant)
 
 A smart, web-based **2048 solver** that calculates the optimal move for any custom board position.
 
