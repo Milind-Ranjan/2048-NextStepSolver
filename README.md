@@ -77,7 +77,7 @@ Follow these steps to run the solver on your machine:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/2048-solver.git
+git clone https://github.com/Milind-Ranjan/2048-NextStepSolver.git
 
 ```
 
